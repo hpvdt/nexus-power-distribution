@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+F1,0805,1,800mA Fuse,
+"F2, F3, F4, F5",0805,4,500mA Fuse,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
+"J1, J2, J3, J4, V_BATT_J5",JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,5,Conn_01x02,
+Q1,SOT91P240X110-3N,1,Q_PMOS_DGS,
+R1,0805,1,1K,

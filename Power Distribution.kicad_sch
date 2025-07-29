@@ -2347,7 +2347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Transistor_Packages:SOT23_Standard"
+		(property "Footprint" "DMP3056L-7 2:SOT91P240X110-3N"
 			(at 62.23 90.17 0)
 			(effects
 				(font
